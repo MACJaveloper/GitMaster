@@ -13,6 +13,7 @@
 		F60D0F0822725948006558B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F60D0F0622725948006558B8 /* Main.storyboard */; };
 		F60D0F0A22725961006558B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F60D0F0922725961006558B8 /* Assets.xcassets */; };
 		F60D0F0D22725961006558B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F60D0F0B22725961006558B8 /* LaunchScreen.storyboard */; };
+		F60D0F1522725BA4006558B8 /* Javier.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60D0F1422725BA4006558B8 /* Javier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F60D0F0922725961006558B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F60D0F0C22725961006558B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F60D0F0E22725962006558B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F60D0F1422725BA4006558B8 /* Javier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Javier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F60D0F0922725961006558B8 /* Assets.xcassets */,
 				F60D0F0B22725961006558B8 /* LaunchScreen.storyboard */,
 				F60D0F0E22725962006558B8 /* Info.plist */,
+				F60D0F1422725BA4006558B8 /* Javier.swift */,
 			);
 			path = GitMaster;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F60D0F1522725BA4006558B8 /* Javier.swift in Sources */,
 				F60D0F0522725948006558B8 /* ViewController.swift in Sources */,
 				F60D0F0322725948006558B8 /* AppDelegate.swift in Sources */,
 				C68BB95822725AFA008688CF /* Manu.swift in Sources */,
